@@ -22,3 +22,8 @@ Java, Python, C, SQL, HTML/CSS/JavaScript, Git/GitHub, Linux
 ## En ce moment
 
 Je me forme au développement agentique : agents IA, pull requests, intégration continue et déploiement.
+
+## Contact
+
+- E-mail : [anasse95600@gmail.com](mailto:anasse95600@gmail.com)
+- GitHub : [github.com/Anasse95](https://github.com/Anasse95)
