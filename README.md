@@ -15,6 +15,7 @@ Je cherche un stage en développement web / applicatif à partir du 12 avril 202
 - [Jeu de dames](https://github.com/Anasse95/jeu-de-dames) : jeu de dames en Python
 - [CinéCollection](https://github.com/Anasse95/cinecollection) : application web full-stack de gestion de collection de films, réalisée en binôme
 - [Secret Hitler – Édition Interactive](https://github.com/Anasse95/Jeu_de_societe-secret_hitler-) : adaptation web du jeu de société, jouable seul contre des bots ou à plusieurs, en React avec l'API Gemini, réalisée en binôme
+
 ## Compétences
 
 Java, Python, C, SQL, HTML/CSS/JavaScript, Git/GitHub, Linux
